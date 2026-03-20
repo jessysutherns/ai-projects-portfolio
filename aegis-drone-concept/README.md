@@ -59,4 +59,4 @@ This project demonstrates:
 
 ## 📷 Concept Visual
 
-(Add your image here)
+![Drone Concept](drone_concept.png)
